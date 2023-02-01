@@ -15,26 +15,26 @@
 
 👯 I’m looking to collaborate on **Open source Project.**
 
-👨‍💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
+<!-- 👨‍💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)** -->
 
 💬 Ask me about **frontend Development.**
 
 🚀 Love to talk about **Research and Innovation!**
 
-:muscle: Passionate about **`Competitive Coding`** <br>
+<!-- :muscle: Passionate about **`Competitive Coding`** <br>
 - 5 :star: in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
-- Solved 25+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
+- Solved 25+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)** -->
 
-📫 How to reach me **call2chetannada@gmail.com**
+📫 How to reach me **sagarkumar@gmail.com**
 
-📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
+📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/sagar-kumar-22b116125)**
 
 ## 🔗 Let's Connect:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kumar-22b116125/)
+<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada) -->
+<!-- [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555) -->
+<!-- [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada) -->
+<!-- [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada) -->
 
 ## ⚙ Languages and Tools:
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -62,9 +62,9 @@
 [![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
-## 📖 Educations:
+<!-- ## 📖 Educations:
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/chetannada)
 [![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/ChetanNada)
 
 
-<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div> -->
