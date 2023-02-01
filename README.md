@@ -9,7 +9,7 @@
 <img src="" alt="Header"/>
 <br/>
 
-🔭 I’m currently working on **[🚀 FoodFire Live Project App Link 😍](https://foodfire-app.netlify.app/)**
+🔭 I’m currently working on **[🚀 FoodFire Live Project App Link 😍]**
 
 :nerd_face: I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
 
